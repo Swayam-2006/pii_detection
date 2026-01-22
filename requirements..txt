@@ -1,0 +1,14 @@
+flask
+gunicorn
+
+presidio-analyzer
+presidio-anonymizer
+spacy
+
+pytesseract
+opencv-python
+pdfplumber
+pdf2image
+pillow
+
+reportlab
